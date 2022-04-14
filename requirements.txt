@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 pandas
 Jinja2==2.10.2
+markupsafe==2.0.1
