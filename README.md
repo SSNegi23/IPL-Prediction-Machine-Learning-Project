@@ -53,8 +53,8 @@ Repo Link: _https://github.com/SSNegi23/IPL-Prediction---Machine-Learning-Projec
 
 # Website
 You could check the deployed model here : https://ipl-predict-team52.herokuapp.com/
----gif---
-
+<br/>
+![GIF](IPL-Prediction.gif)
 
 # Contributers 
 [![](https://github.com/ameyashrikant.png?size=50)](https://github.com/ameyashrikant)
