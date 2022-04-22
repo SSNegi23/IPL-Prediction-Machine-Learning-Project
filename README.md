@@ -60,3 +60,4 @@ You could check the deployed model here : https://ipl-predict-team52.herokuapp.c
 [![](https://github.com/ameyashrikant.png?size=50)](https://github.com/ameyashrikant)
 [![](https://github.com/Vice777.png?size=50)](https://github.com/Vice777)
 [![](https://github.com/SSNegi23.png?size=50)](https://github.com/SSNegi23)
+[![](https://github.com/AyzackRex.png?size=50)](https://github.com/AyzackRex)
