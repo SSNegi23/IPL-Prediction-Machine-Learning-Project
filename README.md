@@ -1,4 +1,4 @@
-<h1 align="center"> IPL-Prediction---Machine-Learning-Project </h1>
+<h1 align="center"> IPL-Prediction-Machine-Learning-Project </h1>
 
 ## Table of contents 
 * [Introduction](#Introduction)
